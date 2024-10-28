@@ -7230,7 +7230,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Xyl7KbL1CaZUHGrVNE3c" name="ArquitecturaGeneral">
-    <mxGraphModel dx="3049" dy="2981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3623" dy="3246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7277,9 +7277,6 @@
         </mxCell>
         <mxCell id="BJWkUucQfJqBHh_2g5KC-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: calibri, sans-serif; font-size: 14.6667px; background-color: rgb(255, 255, 255);&quot;&gt;topic-gestionsaldos-lc-cargavalor&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;quot;roboto&amp;quot; , &amp;quot;robotodraft&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif ; font-size: 13px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" parent="1" vertex="1">
           <mxGeometry x="-100" y="-2303" width="39" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="KYR6-fQIbd8hYqkV1XNA-1" value="bd-SIGESTIN" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;fontSize=13;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="661" y="-2039.4" width="70" height="50.12" as="geometry" />
         </mxCell>
         <mxCell id="KYR6-fQIbd8hYqkV1XNA-5" value="bdGestionSaldos" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=default;gradientColor=#00FF00;gradientDirection=north;fillColor=#009900;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;labelBackgroundColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="413.5" y="-2308" width="50" height="49.16" as="geometry" />
@@ -7332,10 +7329,10 @@
         <mxCell id="8rwRQ3v9TagDrLhAqmxg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GJjJ4gL8Qz6FuE751aev-2" target="8rwRQ3v9TagDrLhAqmxg-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8rwRQ3v9TagDrLhAqmxg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8rwRQ3v9TagDrLhAqmxg-12" target="KYR6-fQIbd8hYqkV1XNA-1">
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8rwRQ3v9TagDrLhAqmxg-12" target="8rwRQ3v9TagDrLhAqmxg-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8rwRQ3v9TagDrLhAqmxg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8rwRQ3v9TagDrLhAqmxg-12" target="8rwRQ3v9TagDrLhAqmxg-22">
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8rwRQ3v9TagDrLhAqmxg-12" target="8rwRQ3v9TagDrLhAqmxg-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8rwRQ3v9TagDrLhAqmxg-12" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider cxx cxy re agh agi agj agk agl agm agn ago agp agq agr ags agt agu agv agw agx cxz cya aha ahb ahc ahd ahe ahf ahg ahh ahi ahj ahk ahl ahm&quot;&gt;recaudacionms2-tributaria-gsc-cargavalorlegado-batch&lt;/span&gt;&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/window-api-coding-configuration-128.png;" vertex="1" parent="1">
@@ -7370,6 +7367,9 @@
         </mxCell>
         <mxCell id="8rwRQ3v9TagDrLhAqmxg-25" value="bd-Rsirat-valores" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;fontSize=13;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1044" y="-1831.5600000000002" width="70" height="50.12" as="geometry" />
+        </mxCell>
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-28" value="rsirat - procedures" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;fontSize=13;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="734.5" y="-2039.96" width="70" height="50.12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
