@@ -7371,17 +7371,17 @@
         <mxCell id="8rwRQ3v9TagDrLhAqmxg-28" value="rsirat - procedures" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;fontSize=13;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="734.5" y="-2039.96" width="70" height="50.12" as="geometry" />
         </mxCell>
-        <mxCell id="8rwRQ3v9TagDrLhAqmxg-34" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider cxx cxy re agh agi agj agk agl agm agn ago agp agq agr ags agt agu agv agw agx cxz cya aha ahb ahc ahd ahe ahf ahg ahh ahi ahj ahk ahl ahm&quot;&gt;recaudacionms2-tributaria-gsc-&lt;/span&gt;&lt;/span&gt;servicioslegado&lt;span style=&quot;font-size: 13px; background-color: rgb(248, 249, 250);&quot;&gt;-backend&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/window-api-coding-configuration-128.png;" vertex="1" parent="1">
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-34" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider cxx cxy re agh agi agj agk agl agm agn ago agp agq agr ags agt agu agv agw agx cxz cya aha ahb ahc ahd ahe ahf ahg ahh ahi ahj ahk ahl ahm&quot;&gt;recaudacionms2-tributaria-gsc-&lt;/span&gt;&lt;/span&gt;serviciosmongo&lt;span style=&quot;font-size: 13px; background-color: rgb(248, 249, 250);&quot;&gt;-backend&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/window-api-coding-configuration-128.png;" vertex="1" parent="1">
           <mxGeometry x="739.5" y="-1459.9999999999998" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="xDXgO_If6aYDSvYa8qTB-1" value="/actualizarCorrelativo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1019.9999999999998" y="-1490" width="168.78" height="32" as="geometry" />
+          <mxGeometry x="999.9999999999998" y="-1455" width="168.78" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="xDXgO_If6aYDSvYa8qTB-3" value="/insertarProcesoCorrelativo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1019.9999999999998" y="-1447" width="168.78" height="32" as="geometry" />
+        <mxCell id="xDXgO_If6aYDSvYa8qTB-5" value="/insertarProcesoMasivo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="999.9999999999998" y="-1370" width="168.78" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="xDXgO_If6aYDSvYa8qTB-4" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Registro pedido proceso&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1009.9999999999998" y="-1620" width="168.78" height="32" as="geometry" />
+        <mxCell id="xDXgO_If6aYDSvYa8qTB-6" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider cxx cxy re agh agi agj agk agl agm agn ago agp agq agr ags agt agu agv agw agx cxz cya aha ahb ahc ahd ahe ahf ahg ahh ahi ahj ahk ahl ahm&quot;&gt;recaudacionms2-tributaria-gsc-&lt;/span&gt;&lt;/span&gt;servicioslegado&lt;span style=&quot;font-size: 13px; background-color: rgb(248, 249, 250);&quot;&gt;-backend&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/window-api-coding-configuration-128.png;" vertex="1" parent="1">
+          <mxGeometry x="739.5" y="-1279.9999999999998" width="65" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
