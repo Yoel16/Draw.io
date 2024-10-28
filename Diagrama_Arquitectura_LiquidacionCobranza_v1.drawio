@@ -7402,10 +7402,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lkYLi-XlOhq8usa2rkRV-1" value="Actualizar estado en preliminar" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-980" width="110" height="100" as="geometry" />
+          <mxGeometry x="480" y="-970" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lkYLi-XlOhq8usa2rkRV-3" value="Actualizar etapa en preliminar" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-777.5" width="110" height="100" as="geometry" />
+          <mxGeometry x="480" y="-767.5" width="110" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
