@@ -7296,7 +7296,7 @@
         <mxCell id="Ca-XalUG1sVyW-j4oPRr-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: calibri, sans-serif; font-size: 14.6667px; background-color: rgb(255, 255, 255);&quot;&gt;topic-gestionsaldos-lc-actualizarestadovalor&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;quot;roboto&amp;quot; , &amp;quot;robotodraft&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif ; font-size: 13px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" parent="1" vertex="1">
           <mxGeometry x="-351" y="-937" width="39" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="GJjJ4gL8Qz6FuE751aev-2" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider cxx cxy re agh agi agj agk agl agm agn ago agp agq agr ags agt agu agv agw agx cxz cya aha ahb ahc ahd ahe ahf ahg ahh ahi ahj ahk ahl ahm&quot;&gt;recaudacionms2-tributaria-gsc-copiardatalegadovalor-batch&lt;/span&gt;&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/window-api-coding-configuration-128.png;" parent="1" vertex="1">
+        <mxCell id="GJjJ4gL8Qz6FuE751aev-2" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider cxx cxy re agh agi agj agk agl agm agn ago agp agq agr ags agt agu agv agw agx cxz cya aha ahb ahc ahd ahe ahf ahg ahh ahi ahj ahk ahl ahm&quot;&gt;recaudacionms2-tributaria-gsc-actualizarestado-batch&lt;/span&gt;&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/window-api-coding-configuration-128.png;" parent="1" vertex="1">
           <mxGeometry x="-83.5" y="-950" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="8rwRQ3v9TagDrLhAqmxg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8rwRQ3v9TagDrLhAqmxg-1" target="KFVqhXNJN3uLH_udYMI1-1">
@@ -7309,15 +7309,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8rwRQ3v9TagDrLhAqmxg-8" value="bdGestionSaldos" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=default;gradientColor=#00FF00;gradientDirection=north;fillColor=#009900;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-76" y="-776.44" width="50" height="49.16" as="geometry" />
+          <mxGeometry x="151" y="-942.08" width="50" height="49.16" as="geometry" />
         </mxCell>
         <mxCell id="8rwRQ3v9TagDrLhAqmxg-9" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;preliminarValores&lt;/span&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#009900;shape=mxgraph.azure.code_file;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="91.50000000000023" y="-772.44" width="40" height="40" as="geometry" />
+          <mxGeometry x="327.5000000000002" y="-938.08" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8rwRQ3v9TagDrLhAqmxg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8rwRQ3v9TagDrLhAqmxg-8" target="8rwRQ3v9TagDrLhAqmxg-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8rwRQ3v9TagDrLhAqmxg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GJjJ4gL8Qz6FuE751aev-2" target="8rwRQ3v9TagDrLhAqmxg-8">
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GJjJ4gL8Qz6FuE751aev-2" target="8rwRQ3v9TagDrLhAqmxg-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8rwRQ3v9TagDrLhAqmxg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8rwRQ3v9TagDrLhAqmxg-12" target="8rwRQ3v9TagDrLhAqmxg-22">
@@ -7373,6 +7373,33 @@
         </mxCell>
         <mxCell id="xDXgO_If6aYDSvYa8qTB-6" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider cxx cxy re agh agi agj agk agl agm agn ago agp agq agr ags agt agu agv agw agx cxz cya aha ahb ahc ahd ahe ahf ahg ahh ahi ahj ahk ahl ahm&quot;&gt;recaudacionms2-tributaria-gsc-&lt;/span&gt;&lt;/span&gt;servicioslegado&lt;span style=&quot;font-size: 13px; background-color: rgb(248, 249, 250);&quot;&gt;-backend&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/window-api-coding-configuration-128.png;" vertex="1" parent="1">
           <mxGeometry x="739.5" y="-1279.9999999999998" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="xDXgO_If6aYDSvYa8qTB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xDXgO_If6aYDSvYa8qTB-8" target="xDXgO_If6aYDSvYa8qTB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xDXgO_If6aYDSvYa8qTB-8" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider cxx cxy re agh agi agj agk agl agm agn ago agp agq agr ags agt agu agv agw agx cxz cya aha ahb ahc ahd ahe ahf ahg ahh ahi ahj ahk ahl ahm&quot;&gt;recaudacionms2-tributaria-gsc-actualizaretapavalor-batch&lt;/span&gt;&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/window-api-coding-configuration-128.png;" vertex="1" parent="1">
+          <mxGeometry x="-631" y="-760" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="xDXgO_If6aYDSvYa8qTB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xDXgO_If6aYDSvYa8qTB-10" target="xDXgO_If6aYDSvYa8qTB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xDXgO_If6aYDSvYa8qTB-10" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: calibri, sans-serif; font-size: 14.6667px; background-color: rgb(255, 255, 255);&quot;&gt;topic-gestionsaldos-lc-actualizaretapavalor&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;quot;roboto&amp;quot; , &amp;quot;robotodraft&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif ; font-size: 13px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" vertex="1" parent="1">
+          <mxGeometry x="-351" y="-747" width="39" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="xDXgO_If6aYDSvYa8qTB-11" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider cxx cxy re agh agi agj agk agl agm agn ago agp agq agr ags agt agu agv agw agx cxz cya aha ahb ahc ahd ahe ahf ahg ahh ahi ahj ahk ahl ahm&quot;&gt;recaudacionms2-tributaria-gsc-actualizaretapa-batch&lt;/span&gt;&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/window-api-coding-configuration-128.png;" vertex="1" parent="1">
+          <mxGeometry x="-83.5" y="-760" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="xDXgO_If6aYDSvYa8qTB-12" value="bdGestionSaldos" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=default;gradientColor=#00FF00;gradientDirection=north;fillColor=#009900;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="151" y="-752.08" width="50" height="49.16" as="geometry" />
+        </mxCell>
+        <mxCell id="xDXgO_If6aYDSvYa8qTB-13" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;preliminarValores&lt;/span&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#009900;shape=mxgraph.azure.code_file;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="327.5000000000002" y="-748.08" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xDXgO_If6aYDSvYa8qTB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xDXgO_If6aYDSvYa8qTB-12" target="xDXgO_If6aYDSvYa8qTB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xDXgO_If6aYDSvYa8qTB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xDXgO_If6aYDSvYa8qTB-11" target="xDXgO_If6aYDSvYa8qTB-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
