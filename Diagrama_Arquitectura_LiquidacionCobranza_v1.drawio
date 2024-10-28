@@ -7263,13 +7263,13 @@
             <mxPoint x="-190" y="-2076" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KYR6-fQIbd8hYqkV1XNA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BJWkUucQfJqBHh_2g5KC-5" target="KYR6-fQIbd8hYqkV1XNA-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="KYR6-fQIbd8hYqkV1XNA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BJWkUucQfJqBHh_2g5KC-5" target="KYR6-fQIbd8hYqkV1XNA-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJWkUucQfJqBHh_2g5KC-5" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider cxx cxy re agh agi agj agk agl agm agn ago agp agq agr ags agt agu agv agw agx cxz cya aha ahb ahc ahd ahe ahf ahg ahh ahi ahj ahk ahl ahm&quot;&gt;recaudacionms2-tributaria-gsc-correlativovalor-batch&lt;/span&gt;&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/window-api-coding-configuration-128.png;" parent="1" vertex="1">
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BJWkUucQfJqBHh_2g5KC-5" target="8rwRQ3v9TagDrLhAqmxg-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJWkUucQfJqBHh_2g5KC-5" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider cxx cxy re agh agi agj agk agl agm agn ago agp agq agr ags agt agu agv agw agx cxz cya aha ahb ahc ahd ahe ahf ahg ahh ahi ahj ahk ahl ahm&quot;&gt;recaudacionms2-tributaria-gsc-cargavalor-batch&lt;/span&gt;&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/window-api-coding-configuration-128.png;" parent="1" vertex="1">
           <mxGeometry x="144" y="-2316" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="BJWkUucQfJqBHh_2g5KC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BJWkUucQfJqBHh_2g5KC-6" target="BJWkUucQfJqBHh_2g5KC-5" edge="1">
@@ -7278,14 +7278,14 @@
         <mxCell id="BJWkUucQfJqBHh_2g5KC-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: calibri, sans-serif; font-size: 14.6667px; background-color: rgb(255, 255, 255);&quot;&gt;topic-gestionsaldos-lc-cargavalor&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;quot;roboto&amp;quot; , &amp;quot;robotodraft&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif ; font-size: 13px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" parent="1" vertex="1">
           <mxGeometry x="-100" y="-2303" width="39" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="KYR6-fQIbd8hYqkV1XNA-1" value="bd-sigestind" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;fontSize=13;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="480" y="-2308.12" width="70" height="50.12" as="geometry" />
+        <mxCell id="KYR6-fQIbd8hYqkV1XNA-1" value="bd-SIGESTIN" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;fontSize=13;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="661" y="-2039.4" width="70" height="50.12" as="geometry" />
         </mxCell>
         <mxCell id="KYR6-fQIbd8hYqkV1XNA-5" value="bdGestionSaldos" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=default;gradientColor=#00FF00;gradientDirection=north;fillColor=#009900;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;labelBackgroundColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="151.5" y="-2135" width="50" height="49.16" as="geometry" />
+          <mxGeometry x="413.5" y="-2308" width="50" height="49.16" as="geometry" />
         </mxCell>
-        <mxCell id="KYR6-fQIbd8hYqkV1XNA-9" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;procesosMasivos&lt;/span&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#009900;shape=mxgraph.azure.code_file;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="320.0000000000002" y="-2131" width="40" height="40" as="geometry" />
+        <mxCell id="KYR6-fQIbd8hYqkV1XNA-9" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Valores&lt;/span&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#009900;shape=mxgraph.azure.code_file;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="582.0000000000002" y="-2304" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ca-XalUG1sVyW-j4oPRr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ca-XalUG1sVyW-j4oPRr-5" target="Ca-XalUG1sVyW-j4oPRr-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -7331,6 +7331,45 @@
         </mxCell>
         <mxCell id="8rwRQ3v9TagDrLhAqmxg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GJjJ4gL8Qz6FuE751aev-2" target="8rwRQ3v9TagDrLhAqmxg-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8rwRQ3v9TagDrLhAqmxg-12" target="KYR6-fQIbd8hYqkV1XNA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8rwRQ3v9TagDrLhAqmxg-12" target="8rwRQ3v9TagDrLhAqmxg-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-12" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider cxx cxy re agh agi agj agk agl agm agn ago agp agq agr ags agt agu agv agw agx cxz cya aha ahb ahc ahd ahe ahf ahg ahh ahi ahj ahk ahl ahm&quot;&gt;recaudacionms2-tributaria-gsc-cargavalorlegado-batch&lt;/span&gt;&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/window-api-coding-configuration-128.png;" vertex="1" parent="1">
+          <mxGeometry x="401" y="-2046.8400000000001" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8rwRQ3v9TagDrLhAqmxg-13" target="8rwRQ3v9TagDrLhAqmxg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: calibri, sans-serif; font-size: 14.6667px; background-color: rgb(255, 255, 255);&quot;&gt;topic-gestionsaldos-lc-cargavalorlegado&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;quot;roboto&amp;quot; , &amp;quot;robotodraft&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif ; font-size: 13px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" vertex="1" parent="1">
+          <mxGeometry x="157" y="-2033.8400000000001" width="39" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-18" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;ProcedoMasivo&lt;/span&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#009900;shape=mxgraph.azure.code_file;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="418.5000000000002" y="-2160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.479;entryY=0.163;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KYR6-fQIbd8hYqkV1XNA-5" target="8rwRQ3v9TagDrLhAqmxg-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-20" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider cxx cxy re agh agi agj agk agl agm agn ago agp agq agr ags agt agu agv agw agx cxz cya aha ahb ahc ahd ahe ahf ahg ahh ahi ahj ahk ahl ahm&quot;&gt;recaudacionms2-tributaria-gsc-emisionvalor-backend&lt;/span&gt;&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/window-api-coding-configuration-128.png;" vertex="1" parent="1">
+          <mxGeometry x="1208" y="-2054.2799999999997" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8rwRQ3v9TagDrLhAqmxg-21" target="8rwRQ3v9TagDrLhAqmxg-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-21" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider cxx cxy re agh agi agj agk agl agm agn ago agp agq agr ags agt agu agv agw agx cxz cya aha ahb ahc ahd ahe ahf ahg ahh ahi ahj ahk ahl ahm&quot;&gt;recaudacionms2-tributaria-gsc-migrarvalorvalorlegado-batch&lt;/span&gt;&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/window-api-coding-configuration-128.png;" vertex="1" parent="1">
+          <mxGeometry x="739.5" y="-1839" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8rwRQ3v9TagDrLhAqmxg-22" target="8rwRQ3v9TagDrLhAqmxg-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-22" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: calibri, sans-serif; font-size: 14.6667px; background-color: rgb(255, 255, 255);&quot;&gt;topic-gestionsaldos-lc-migearvalorlegado&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;quot;roboto&amp;quot; , &amp;quot;robotodraft&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif ; font-size: 13px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_streaming_for_kafka;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-1826.0000000000002" width="39" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="8rwRQ3v9TagDrLhAqmxg-25" value="bd-Rsirat-valores" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;fontSize=13;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1044" y="-1831.5600000000002" width="70" height="50.12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
