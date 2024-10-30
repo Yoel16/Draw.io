@@ -8003,6 +8003,18 @@
         <mxCell id="M8-035d6G-J2jtUYpynF-10" value="AUTORIZAR FIRMA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="166" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="M8-035d6G-J2jtUYpynF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M8-035d6G-J2jtUYpynF-14" target="M8-035d6G-J2jtUYpynF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M8-035d6G-J2jtUYpynF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M8-035d6G-J2jtUYpynF-14" target="M8-035d6G-J2jtUYpynF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M8-035d6G-J2jtUYpynF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="M8-035d6G-J2jtUYpynF-14" target="M8-035d6G-J2jtUYpynF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M8-035d6G-J2jtUYpynF-14" value="RECUPERACION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
